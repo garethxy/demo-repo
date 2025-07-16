@@ -1,5 +1,5 @@
-# Demo
+# Demo 
 
 Just testing functionality.
 
-## thanks
+## Thanks. Have a nice day!
