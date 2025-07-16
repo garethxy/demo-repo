@@ -12,6 +12,8 @@ Just testing functionality.
 
 > blockquote
 
+paragraph
+
 ` code would go here and look cool `
 
 ```
@@ -28,25 +30,25 @@ Just testing functionality.
 - One
 - Is
 - Unordered
-
+---
 - [x] Check
 - [ ] List?
 
 ---
 > [!CAUTION]
 > Proceed with tremendous care
+
 [my github](https://github.com/garethxy)
 
-![some image description would go here](Bengal-tiger.jpg)
+![some image description would go here](Bengal-tiger.jpg)  
 ~~Probably not showing anything!~~
 
-:joy: x^2^ H~2~O <that :element [^1]
+:joy: x^2^ H~2~O <that :element
 
 <ins>alt:</ins>  :joy: x<sup>2</sup> H<sub>2</sub>O
 that\
 :element[^1]
 
-==highlighted==
 red `#ff0000` green `#00ff00` blue `#0000ff`
 
 [^1]: Meaningless footnote
