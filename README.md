@@ -8,7 +8,7 @@ Just testing functionality.
 
 *very italic*
 
-### Small heading {#small}
+### Small heading
 
 > blockquote
 
@@ -30,11 +30,11 @@ Just testing functionality.
 - Unordered
 
 - [x] Check
-- [] List?
+- [ ] List?
 
 ---
-[!CAUTION]
-Proceed with tremendous care
+> [!CAUTION]
+> Proceed with tremendous care
 [my github](https://github.com/garethxy)
 
 ![some image description would go here](Bengal-tiger.jpg)
@@ -44,11 +44,11 @@ Proceed with tremendous care
 
 <ins>alt:</ins>  :joy: x<sup>2</sup> H<sub>2</sub>O
 that\
-:element [^1]
+:element[^1]
 
 ==highlighted==
 red `#ff0000` green `#00ff00` blue `#0000ff`
 
-[^1] Meaningless footnote
+[^1]: Meaningless footnote
 
 <!-- Invisible comment -->
