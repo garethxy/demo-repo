@@ -8,7 +8,7 @@ Just testing functionality.
 
 *very italic*
 
-### Small heading :) {#small}
+### Small heading {#small}
 
 > blockquote
 
@@ -40,5 +40,12 @@ Just testing functionality.
 ~~Probably not showing anything!~~
 
 :joy: x^2^ H~2~O <that :element [^1]
+
+<ins>alt:</ins>  :joy: x<sup>2</sup> H<sub>2</sub>O
+that\
+:element [^1]
+
+==highlighted==
+red `#ff0000` green `#00ff00` blue `#0000ff`
 
 [^1] Meaningless footnote
