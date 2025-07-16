@@ -29,14 +29,15 @@ Just testing functionality.
 - Is
 - Unordered
 
-[x] Check
-[] List?
+- [x] Check
+- [] List?
 
 ---
-
+[!CAUTION]
+Proceed with tremendous care
 [my github](https://github.com/garethxy)
 
-![some image description would go here](image.jpg)
+![some image description would go here](Bengal-tiger.jpg)
 ~~Probably not showing anything!~~
 
 :joy: x^2^ H~2~O <that :element [^1]
@@ -49,3 +50,5 @@ that\
 red `#ff0000` green `#00ff00` blue `#0000ff`
 
 [^1] Meaningless footnote
+
+<!-- Invisible comment -->
