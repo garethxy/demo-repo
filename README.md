@@ -22,14 +22,14 @@ paragraph
 
 1. This
 2. Is
-3. an
-4. Ordered
+3. a
+4. Numbered
 5. List
 
 - This
 - One
 - Is
-- Unordered
+- Unnumbered
 ---
 - [x] Check
 - [ ] List?
